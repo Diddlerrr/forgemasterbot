@@ -1,0 +1,9 @@
+forge-master-bot/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+├── bot.py
+├── requirements.txt
+├── requirements-dev.txt
+└── tests/
+    └── test_bot.py
